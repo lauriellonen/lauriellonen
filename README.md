@@ -1,5 +1,5 @@
 # About me.
-<p>I'm Lauri, I am a student at Lab UAS in Lappeenranta. I have a little bit experience as a front end developer as I formerly studied in Saimaa Vocational College. I am familar with HTML, CSS, PHP and SQL.</p><br>
+<p>I'm Lauri, I am a student at LAB UAS in Lappeenranta. I have a little bit experience as a front end developer as I formerly studied in Saimaa Vocational College. I am familar with HTML, CSS, PHP and SQL.</p><br>
 <ul>
 <li>😄 Pronouns: He/Him</li>
 <li>📱How to reach me:<a href="https://www.linkedin.com/in/lauriellonen/">LinkedIn - Lauri Ellonen, </a><a> Element @lauri-ellonen:matrix.org</a></li>
